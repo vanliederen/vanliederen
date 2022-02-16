@@ -1,6 +1,12 @@
 # Hi there, I'm **[Victor van Liederen](https://github.com/vvanliederen)**! 👋
 
----
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on Web And Mobile Development :wink:
+- 🌱 I love Cloud Computing , Cyber Security and also IoT 
+- 💬 Ask me about anything via e-mail / social media, I am very happy to answer it
+- ⚡️ Besides Programming , I loves Music and Movies.
+- 🤔 I'm also interested about UI/UX design 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vvanliederen.vvanliederen)
 
