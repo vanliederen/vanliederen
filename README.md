@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/van-liederen/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&labelColor=fff&logo=Gmail&logoColor=c4302b)](mailto:vvanliederen@gmail.com)
 
-**Skills:**
+**Skills & Tools:**
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="25px" height="25px"/>
