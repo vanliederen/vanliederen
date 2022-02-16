@@ -1,5 +1,7 @@
 # Hi there, I'm **[Victor van Liederen](https://github.com/vvanliederen)**! 👋
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vvanliederen.vvanliederen)
+
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on Web And Mobile Development :wink:
@@ -8,7 +10,11 @@
 - ⚡️ Besides Programming , I loves Music and Movies.
 - 🤔 I'm also interested about UI/UX design 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vvanliederen.vvanliederen)
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
+-->
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/van-liederen/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&labelColor=fff&logo=Gmail&logoColor=c4302b)](mailto:vvanliederen@gmail.com)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="25px" height="25px"/>
