@@ -1,4 +1,4 @@
-# Hi there, I'm **[Victor van Liederen](https://github.com/vvanliederen)**! 👋
+# Hi there, I'm **[Victor van Liederen](https://github.com/vanliederen)**! 👋
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vvanliederen.vvanliederen)
 
