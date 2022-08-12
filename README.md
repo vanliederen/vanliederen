@@ -1,6 +1,6 @@
-# Hi there, I'm **[Victor van Liederen](https://github.com/vanliederen)**! 👋
+# Hi there, I'm **[Code wizard](https://github.com/vanliederen)**! 👋
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vvanliederen.vvanliederen)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vanliederen.vvanliederen)
 
 **Talking about Personal Stuffs:**
 
