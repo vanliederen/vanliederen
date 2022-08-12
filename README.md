@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 -->
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/van-liederen/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&labelColor=fff&logo=Gmail&logoColor=c4302b)](mailto:onlineontwikkelaar@outlook.com)
-[![Keybase](https://img.shields.io/badge/-Keybase-048DF4?style=flat&labelColor=fff&logo=Keybase&logoColor=c4302b)](https://keybase.io/vanliederen)
+[![Keybase](https://img.shields.io/badge/-Keybase-048DF4?style=flat&labelColor=fff&logo=Keybase&logoColor=c4302b)](https://keybase.io)
 
 **Skills & Tools:**
 
